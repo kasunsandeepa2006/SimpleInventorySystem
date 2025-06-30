@@ -1,2 +1,16 @@
 # SimpleInventorySystem
-A beginner-friendly Java application that simulates a basic inventory management system with CRUD (Create, Read, Update, Delete) operations. This project is designed to demonstrate core Java programming, database connectivity using JDBC, and clean software structure — aligned with enterprise software development practices.
+
+A basic Java application to manage product inventory with CRUD operations using Oracle DB.
+
+### Technologies
+- Java
+- Oracle Database (JDBC)
+- Git
+
+### Features (Planned)
+- Add new product
+- View all products
+- Update product details
+- Delete product
+
+This is a learning project for internship preparation.
